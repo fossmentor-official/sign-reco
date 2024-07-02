@@ -13,21 +13,24 @@ Dynamic Mode: In this mode, users write their signature on a digitizing tablet, 
 
 <h2>Installing</h2>
 <pre>open terminal and type</pre>
-
 <code>git clone https://github.com/FOSSMentorOfficial/sign-reco.git</code><br><br>
-
 <h4>or simply download using the url below</h4>
 <code>https://github.com/FOSSMentorOfficial/sign-reco.git</code><br>
 
 <pre> Create and Activate a Virtual Environment</pre>
-<code>python3 -m venv venv
-source venv/bin/activate # On Windows, use `venv\Scripts\activate`</code>
-
+<code>python3 -m venv venv <br/>
+source venv/bin/activate # On MAC/LINUX <br/>
+venv\Scripts\activate # On MAC/LINUX</code>
 
 <pre>Download the necessary modules:</pre>
 <code>pip install keras</code>
+
 <code>pip install numpy</code>
+
 <code>pip install pandas</code>
+
 <code>pip install scikit-learn</code>
+
 <code>pip install matplotlib</code>
+
 <code>pip install tensorflow</code>
