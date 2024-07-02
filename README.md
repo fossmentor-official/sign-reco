@@ -20,7 +20,7 @@ Dynamic Mode: In this mode, users write their signature on a digitizing tablet, 
 <pre> Create and Activate a Virtual Environment</pre>
 <code>python3 -m venv venv <br/>
 source venv/bin/activate # On MAC/LINUX <br/>
-venv\Scripts\activate # On MAC/LINUX</code>
+venv\Scripts\activate # On Window</code>
 
 <pre>Download the necessary modules:</pre>
 <code>pip install keras</code>
