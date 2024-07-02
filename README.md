@@ -14,10 +14,10 @@ Dynamic Mode: In this mode, users write their signature on a digitizing tablet, 
 <h2>Installing</h2>
 <pre>open terminal and type</pre>
 
-<code>git clone https://github.com/FOSSMentorOfficial/OpenCV-Python-Small-Projects.git</code><br><br>
+<code>git clone https://github.com/FOSSMentorOfficial/sign-reco.git</code><br><br>
 
 <h4>or simply download using the url below</h4>
-<code>https://github.com/FOSSMentorOfficial/OpenCV-Python-Small-Projects.git</code><br>
+<code>https://github.com/FOSSMentorOfficial/sign-reco.git</code><br>
 
 <pre> Create and Activate a Virtual Environment</pre>
 <code>python3 -m venv venv
