@@ -1,0 +1,11 @@
+### Python ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.vscode
+newenv
+venv
+.DS_Store
+.gitattributes
